@@ -1,0 +1,21 @@
+{
+  "name": "front-end-challenge",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "1.4.2",
+    "body-parser": "1.13.3",
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "4.13.3",
+    "express-domain-middleware": "0.1.0",
+    "express-enrouten": "1.2.1",
+    "express-history-api-fallback": "^2.2.1",
+    "jade": "1.11.0",
+    "moment": "2.10.6",
+    "morgan": "1.6.1",
+    "node-uuid": "1.4.3",
+    "recluster": "0.4.1",
+    "stack-trace": "0.0.9",
+    "underscore": "1.8.3",
+    "validator": "4.0.5"
+  }
+}
