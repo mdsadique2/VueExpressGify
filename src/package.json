@@ -12,7 +12,7 @@
     "jade": "1.11.0",
     "moment": "2.10.6",
     "morgan": "1.6.1",
-    "node-uuid": "1.4.3",
+    "node-uuid": "1.4.8",
     "recluster": "0.4.1",
     "stack-trace": "0.0.9",
     "underscore": "1.8.3",
