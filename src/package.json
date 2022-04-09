@@ -10,7 +10,7 @@
     "express-enrouten": "1.2.1",
     "express-history-api-fallback": "^2.2.1",
     "jade": "1.11.0",
-    "moment": "2.10.6",
+    "moment": "2.29.2",
     "morgan": "1.6.1",
     "node-uuid": "1.4.3",
     "recluster": "0.4.1",
